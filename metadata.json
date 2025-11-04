@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Football Schedule Simulator",
+  "description": "An application that takes scores from a fantasy football league and simulates the range of possible outcomes based on different potential schedules. It helps users understand how much luck and scheduling affected their season's results.",
+  "requestFramePermissions": []
+}
